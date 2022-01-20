@@ -1,0 +1,52 @@
+[
+    {
+	"type": "A",
+        "ip_address": "140.118.242.121",
+        "domain_name": "www.ntust.com.tw"
+    },
+    {
+	"type": "A",
+        "ip_address": "142.251.32.36",
+        "domain_name": "google.com"
+    },
+    {
+	"type": "CNAME",
+        "canonical name": "google.com",
+        "alias": "www.google.com"
+    },
+    {
+	"type": "A",
+        "ip_address": "140.118.31.100",
+        "domain_name": "moodle.ntust.edu.tw"
+    },
+    {
+	"type": "A",
+        "ip_address": "157.240.11.35",
+        "domain_name": "www.facebook.com"
+    },
+    {
+	"type": "CNAME",
+        "canonical name": "moodle.ntust.edu.tw",
+        "alias": "www.moodle.ntust.edu.tw"
+    },
+    {
+	"type": "A",
+        "ip_address": "23.43.124.89",
+        "domain_name": "www.tesla.com"
+    },
+    {
+	"type": "A",
+        "ip_address": "61.60.98.240",
+        "domain_name": "christmasland.ntpc.gov.tw"
+    },
+    {
+	"type": "A",
+        "ip_address": "140.112.8.116",
+        "domain_name": "www.ntu.edu.tw"
+    },
+    {
+	"type": "A",
+        "ip_address": "61.65.238.129",
+        "domain_name": "www.taipower.com.tw"
+    }
+]
